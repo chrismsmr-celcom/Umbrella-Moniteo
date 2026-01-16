@@ -48,3 +48,8 @@
 1. Cloner le dépôt :  
 ```bash
 git clone https://github.com/toncompte/moniteo.git
+
+Mentions légales
+Logiciel développé par Umbrella.
+Tous droits réservés © 2026 Moniteo.
+Conditions d’utilisation et politique de confidentialité incluses dans le footer du dashboard.
